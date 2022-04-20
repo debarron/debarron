@@ -5,6 +5,7 @@ I'm a driven computer engineer, learning new stuff.
 ### You can contact me at my social networks
 [<img align="left" alt="debarron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+</br>
 ### I'm currently into
 - Scala, Python and functional programming
 - Google cloud platform and BigQuery
